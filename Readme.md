@@ -11,9 +11,6 @@ if the timer is up or if you didn't select the ace card within time you will los
 # Tech Stack:
 HTML,CSS AND JAVASCRIPT
 
-# Inspired Game From:
-Youtube 
-
 # OutPut
 Front page
 ![Screenshot (79)](https://github.com/meghanamanchala/HUNT-FOR-ACE---GD/assets/147796513/66cf47cd-9700-4965-b933-1d6a73e355f6)
